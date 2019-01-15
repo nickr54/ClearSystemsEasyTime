@@ -1,2 +1,14 @@
 # EasyTime
 EasyTime Time and Attendance from Clear Systems Ltd.
+
+Commercial License
+EasyTime is Copyright 2001-2019 by Clear Systems Ltd. This license applies to a registered version of EasyTime. You should carefully read the following terms and conditions before using this software. Your use of this software indicates your complete acceptance of this software license agreement and warranty.
+
+Registered Version
+If you have purchased a registered version of the EasyTime software for use on one standalone computer, please note that this software may not be installed on any more than one computer system at any time. Installation on a network server for use by several workstations is permitted but in such a case, each workstation accessing the software regardless of the time frame must have purchased an extra software license.
+
+Law
+The laws of the United Kingdom shall govern this agreement.
+
+Warranty / Liability
+This software carries a 12 month warranty with e-mail or telephone technical support. In the event of support being required during this period, please e-mail support@clearsystems.co.uk and request technical support. Attempts to claim technical support outside of the allocated warranty period are unacceptable. Clear Systems will upon payment of the appropriate fee, extend this warranty for subsequent periods of 12 months and also issue a license notice to extend its validity. The user agrees to assume the entire risk of using the program associated with this license and that Clear Systems Ltd will not be held liable for any form of data loss or corruption. Clear Systems Limited liability with regard to this product is limited exclusively to product replacement or a refund of the purchase price during the time frame stated in the warranty. By running the EasyTime software you are binding yourself to the terms of this software license agreement.
